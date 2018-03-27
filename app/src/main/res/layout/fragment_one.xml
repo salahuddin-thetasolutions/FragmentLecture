@@ -9,7 +9,12 @@
         android:text="Fragment one"
         android:id="@+id/tvfragmentone"
         />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnMove"
+        android:text="Fragment 2"
+        />
 </LinearLayout>
-
 
 
